@@ -10,3 +10,5 @@
 - дообучил модель MS.Marco (SentensTransformers), которая решает вопросно-ответные задачи. (PyTorch, Hugging Face) - поместил это все в телеграм бот(Aiogram)
   
 - обернул это все в Docker и запустил на ВМ Yandex
+
+
