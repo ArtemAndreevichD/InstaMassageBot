@@ -12,3 +12,4 @@
 - обернул это все в Docker и запустил на ВМ Yandex
 
 
+![Uploading image.png…]()
